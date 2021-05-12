@@ -1,7 +1,7 @@
 ### Hi Peeps 👋
 <br>
 
-I am Sangeet Sarkar 1st year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am a newbie web developer and always interested to learn and try out new things😊.
+I am Sangeet Sarkar 1st year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am a newbie web developer and always interested to learn and try out new things😊.Along with coding I am a bookworm and love reading books and learning about literature.
 <br><br>
 Age:19
 <br><br>
@@ -14,6 +14,11 @@ Age:19
 <code><a title="Facebook" href="https://www.facebook.com/sangeetsarkar2002/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"></a></code>
 
 <br><br>   
+# Achievements
+- Finalist CSS HACKS 1.0 (2021).
+- 3rd Position in CYBERBOT 4.0
+
+<br>
 
 # My Skills
 <div ="myskills" align="center" width="80%">
