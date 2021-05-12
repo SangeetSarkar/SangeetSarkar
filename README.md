@@ -10,7 +10,7 @@ Age:19
 <hr>
 
 <code><a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=sangeetsarkar2002@gmail.com&tf=1"><img height="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"></a></code>
-<code><a title="LinkedIn" href="www.linkedin.com/in/sangeet-sangeet-67a9001b7"><img height="35" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"></a></code>
+<code><a title="LinkedIn" href="https://www.linkedin.com/in/sangeet-sangeet-67a9001b7/"><img height="35" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"></a></code>
 <code><a title="Facebook" href="https://www.facebook.com/sangeetsarkar2002/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"></a></code>
 
 <br><br>   
