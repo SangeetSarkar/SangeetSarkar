@@ -1,10 +1,20 @@
-### Hi Peeps 👋
+>"_A Great fire burns within me, but no one stops to warm themselves at it"
+\~Vincent Van Gogh<br><br>
+### Hey Folks 👋
 <br>
 
-I am Sangeet Sarkar 1st year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am a newbie web developer and always interested to learn and try out new things😊.Along with coding I am a bookworm and love reading books and learning about literature.
+I am Sangeet Sarkar 1st year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am a web developer and always interested to learn and try out new things😊.Along with coding I am a bookworm (as you can say from seeing the first line) and love reading books and learning about literature.
 <br><br>
-Age:19
+Some Fun things I am doing
+<br>
+- I am currently learning NodeJs,Modern Js,React Js.
+- I am currently reading "The Grapes of Wrath" by John Steinbeck.
 <br><br>
+<hr>
+Age:19<br>
+Gender:He/Him
+<br><br>
+
 ### Catch me at :-
 <hr>
 
@@ -24,6 +34,7 @@ Age:19
     <code><img title="html" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
     </code>
     <code><img title="CSS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+   <code><img title="JavaScript (JS)" height="45" src="./img/javascript.svg"></code>&emsp;&nbsp;
     <code><img title="Github" height="33" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
     <code><img title="Markdown" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png"></code>
 <br><br>
