@@ -30,13 +30,12 @@ Gender:He/Him
 
 # My Skills
 <div ="myskills" align="center" width="80%">
-    <code><img title="C++" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></code>
-    <code><img title="html" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
+    <code><img title="C++" height="40" src="img/cpp.svg"></code>
+    <code><img title="html" height="40" src="img/html.svg">
     </code>
-    <code><img title="CSS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-   <code><img title="JavaScript (JS)" height="45" src="./img/javascript.svg"></code>&emsp;&nbsp;
-    <code><img title="Github" height="33" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-    <code><img title="Markdown" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png"></code>
+    <code><img title="CSS" height="40" src="img/css.svg"></code>
+   <code><img title="JavaScript (JS)" height="40" src="img/javascript.svg"></code>&emsp;&nbsp;
+    <code><img title="Git" height="40" src="img/git.svg"></code>
 <br><br>
 
 <div align="center" width=100%>
