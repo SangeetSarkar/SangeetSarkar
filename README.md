@@ -1,4 +1,4 @@
->"_A Great fire burns within me, but no one stops to warm themselves at it"
+>"A Great fire burns within me, but no one stops to warm themselves at it"
 \~Vincent Van Gogh<br><br>
 ### Hey Folks 👋
 <br>
