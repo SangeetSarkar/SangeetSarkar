@@ -34,7 +34,7 @@ Gender:He/Him
     <code><img title="html" height="40" src="img/html.svg">
     </code>
     <code><img title="CSS" height="40" src="img/css.svg"></code>
-   <code><img title="JavaScript (JS)" height="40" src="img/javascript.svg"></code>&emsp;&nbsp;
+   <code><img title="JavaScript (JS)" height="40" src="img/javascript.svg"></code>
     <code><img title="Git" height="40" src="img/git.svg"></code>
 <br><br>
 
