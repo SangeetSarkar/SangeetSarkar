@@ -3,15 +3,15 @@
 ### Hey Folks 👋
 <br>
 
-I am Sangeet Sarkar 1st year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am a web developer and always interested to learn and try out new things😊.Along with coding I am a bookworm (as you can say from seeing the first line) and love reading books and learning about literature.
+I am Sangeet Sarkar 1st year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am a android app developer and always interested to learn and try out new things😊.Along with coding I am a bookworm (as you can say from seeing the first line) and love reading books and learning about literature.
 <br><br>
 Some Fun things I am doing
 <br>
-- I am currently learning NodeJs,Modern Js,React Js.
-- I am currently reading "The Grapes of Wrath" by John Steinbeck.
+- I am currently learning Kotlin,Java.
+- I am currently reading "Beyond Good and Evil" by Fredrick Neichze.
 <br><br>
 <hr>
-Age:19<br>
+Age:20<br>
 Gender:He/Him
 <br><br>
 
