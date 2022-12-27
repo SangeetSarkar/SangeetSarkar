@@ -1,9 +1,7 @@
->"A Great fire burns within me, but no one stops to warm themselves at it"
-\~Vincent Van Gogh<br><br>
 ### Hey Folks 👋
 <br>
 
-I am Sangeet Sarkar 1st year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am an front end developer and always interested to learn and try out new things😊
+I am Sangeet Sarkar 3rd year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am an front end developer and always interested to learn and try out new things😊
 <br><br>
 Some Fun things I am doing
 <br>
