@@ -3,12 +3,11 @@
 ### Hey Folks 👋
 <br>
 
-I am Sangeet Sarkar 1st year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am an android app developer and always interested to learn and try out new things😊.Along with coding I am a bookworm (as you can say from seeing the first line) and love reading books and learning about literature.
+I am Sangeet Sarkar 1st year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am an front end developer and always interested to learn and try out new things😊
 <br><br>
 Some Fun things I am doing
 <br>
-- I am currently learning Kotlin,Java.
-- I am currently reading "Beyond Good and Evil" by Fredrick Neichze.
+- I am currently learning React.
 <br><br>
 <hr>
 Age:20<br>
