@@ -1,11 +1,11 @@
 ### Hey Folks 👋
 <br>
 
-I am Sangeet Sarkar 3rd year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am an front end developer and always interested to learn and try out new things😊
+I am Sangeet Sarkar 4th year undergraduate from [National Institute of Technology](http://www.nits.ac.in/). I am full stack developer and always interested to learn and try out new things😊
 <br><br>
 Some Fun things I am doing
 <br>
-- I am currently learning React.
+- I am currently learning Express and MongoDB.
 <br><br>
 <hr>
 Age:20<br>
